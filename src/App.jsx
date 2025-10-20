@@ -1,6 +1,6 @@
 import { useState } from 'react'
 import './App.css'
-import Header from './header.jsx'
+import Header from './Header.jsx'
 import Sidebar from './Sidebar.jsx'
 import Infos from './Infos.jsx'
 import Skills from './Skills.jsx'
